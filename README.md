@@ -138,6 +138,6 @@ All tests use **[reqres.in](https://reqres.in)** — a hosted REST API for testi
 
 ## 👤 Author
 
-**[Your Name]**  
+Amal
 QA Engineer | Java | RestAssured | Postman | API Automation  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/amal-a49244350) • [GitHub](https://github.com/am-qa-engineer))
