@@ -1,0 +1,10 @@
+target/
+*.class
+test-output/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
+logs/
+newman-report.html
